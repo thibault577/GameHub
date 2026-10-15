@@ -1,22 +1,7 @@
-# 🎮 GameHub
+# Tauri + React + Typescript
 
-GameHub is a modern Windows game launcher that brings your games together in one place.
+This template should help get you started developing with Tauri, React and Typescript in Vite.
 
-## Features
+## Recommended IDE Setup
 
-- Steam, Epic Games and Ubisoft Connect game scanning
-- Custom game folders
-- Automatic game artwork
-- Game categories and favorites
-- Playtime tracking
-- Seven interface languages
-- Liquid Glass and other themes
-- Automatic update support
-
-## Download
-
-Download the latest Windows installer from the [Releases](https://github.com/thibault577/GameHub/releases) page.
-
-## Requirements
-
-Windows 10 or Windows 11.
+- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
